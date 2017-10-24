@@ -1,0 +1,6 @@
+command for install git in linux is
+  sudo apt-get update
+  sudo apt-get upgrade
+  sudo apt-get install git
+You will be asked for password 
+You can use GIT now
